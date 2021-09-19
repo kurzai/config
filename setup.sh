@@ -8,7 +8,6 @@ sudo apt -y install handbrake-cli
 sudo apt -y install mediainfo
 sudo apt -y install python3-pip
 sudo apt -y install chromium-browser
-sudo apt -y install npm
 sudo apt -y install ffmpeg
 
 ./install_chrome_unstable.sh
