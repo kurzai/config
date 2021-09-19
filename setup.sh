@@ -15,6 +15,8 @@ sudo npm i -g ts-node node-gyp
 sudo apt -y install handbrake-cli
 sudo apt -y install mediainfo
 
+sudo apt -y install python3-pip
+
 ./install_chrome_unstable.sh
 
 # apps to install
