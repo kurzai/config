@@ -4,20 +4,15 @@
 sudo apt update
 sudo apt full-upgrade instead
 
-
-sudo apt -y install chromium-browser
-
-sudo apt -y install npm
-
-sudo apt -y install node-typescript
-sudo npm i -g ts-node node-gyp
-
 sudo apt -y install handbrake-cli
 sudo apt -y install mediainfo
-
 sudo apt -y install python3-pip
+sudo apt -y install chromium-browser
+sudo apt -y install npm
+sudo apt -y install ffmpeg
 
 ./install_chrome_unstable.sh
+./install_nodejs.sh
 
 # apps to install
 # - vscodium
